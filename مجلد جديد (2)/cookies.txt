@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.ionicframework.com	TRUE	/	FALSE	1999999999	__cfduid	d4e8eac5040f16bc616ab65a7c6f46c961529970662
+.uaepro.me	TRUE	/	FALSE	1999999999	__cfduid	dd842b8bd6b4cddcbdf8499d321c54d7e1529970693
+.qualityindex.com	TRUE	/	FALSE	1999999999	__cfduid	d037c688b170054965e9cb2109696f65f1529970698
+.top4top.net	TRUE	/	FALSE	1999999999	klj_40d147_downloads	b623o%2Cb7cnv%2Cb7cn8%2Cb7clj
+.appvalley.vip	TRUE	/	FALSE	1999999999	__cfduid	dee139704f4f68b8aa0f416930e8315ab1529970723
+
