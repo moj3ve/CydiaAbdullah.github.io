@@ -7,9 +7,6 @@ Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.ti
 Replaces: com.cokepokes.phlite
 Filename: deb/com.CydiaAbdullah.phantom_5.3.8-6_iphoneos-arm.deb
 Size: 9667878
-MD5sum: 5df941e9a3972a2910d40e0133f27cec
-SHA1: 821f6139fe92f914c666c90f9c78ed968a966a65
-SHA256: 974ba1ace959dc303887a1bbe3ec34d19e912fe6cded41ab18a81735b34bcf69
 Section: Tweaks
 Description: Phantom (Lite) For Snapchat iOS11(unc0ver)
 Author: CokePokes
@@ -24,9 +21,6 @@ Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.ti
 Replaces: com.cokepokes.phlite
 Filename: deb/com.CydiaAbdullah.phantom5.3.8_5.3.8_iphoneos-arm.deb
 Size: 9667878
-MD5sum: 5df941e9a3972a2910d40e0133f27cec
-SHA1: 821f6139fe92f914c666c90f9c78ed968a966a65
-SHA256: 974ba1ace959dc303887a1bbe3ec34d19e912fe6cded41ab18a81735b34bcf69
 Section: Tweaks
 Description: Phantom (Lite) For Snapchat iOS11(unc0ver)
 Author: CokePokes
