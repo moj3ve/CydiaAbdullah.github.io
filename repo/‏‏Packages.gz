@@ -12,16 +12,24 @@ Description: Phantom (Lite) For Snapchat iOS11(unc0ver)
 Author: CokePokes
 Name: Phantom (Lite) For Snapchat iOS11(unc0ver)
 
+Name: Phantom (Lite) for Snapchat (unc0ver)
 Package: com.CydiaAbdullah.phantom5.3.8
-Version: 5.3.8
-Architecture: iphoneos-arm
-Maintainer: CydiaAbdullah
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
-Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs,  com.jonluca.sclenses4all, com.cokepokes.libphantom
+Priority: optional
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
+Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all, com.cokepokes.libphantom
 Replaces: com.cokepokes.phlite
-Filename: deb/com.CydiaAbdullah.phantom5.3.8_5.3.8_iphoneos-arm.deb
-Size: 9667878
+Version: 5.3.8
 Section: Tweaks
-Description: Phantom (Lite) For Snapchat iOS11(unc0ver)
-Author: CokePokes
-Name: Phantom (Lite) For Snapchat iOS11(unc0ver)
+Filename: deb/com.CydiaAbdullah.phantom5.3.8_5.3.8_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: Phantom is in the process of being fully updated to bypass Snapchat’s tweak detection تعديل: @CydiaAbdullah
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomliteDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomliteDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: CokePokes <cokepokes@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Installed-Size: 16114
+dev: cokepokes
+Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
