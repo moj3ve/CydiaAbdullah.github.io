@@ -6,6 +6,7 @@ Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.ti
 Replaces: com.cokepokes.phlite
 Version: 5.3.8-6
 Section: Tweaks
+MD5sum: ce01325754b53ddb94b5faa87e91fg6u
 Filename: deb/com.CydiaAbdullah.phantom_5.3.8-6_iphoneos-arm.deb
 Architecture: iphoneos-arm
 Description: Phantom is in the process of being fully updated to bypass Snapchat’s tweak detection تعديل: @CydiaAbdullah
