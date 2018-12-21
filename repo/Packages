@@ -12,8 +12,6 @@ Architecture: iphoneos-arm
 Description: Phantom is in the process of being fully updated to bypass Snapchat’s tweak detection تعديل: @CydiaAbdullah
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: CokePokes <cokepokes@gmail.com>
-Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
-Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
 
 Name: Phantom (Lite) for Snapchat (unc0ver)
 Package: com.CydiaAbdullah.phantom5.3.8
