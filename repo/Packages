@@ -12,7 +12,6 @@ Description: Phantom is in the process of being fully updated to bypass Snapchat
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: CokePokes <cokepokes@gmail.com>
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
-Size: 16114
 Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
 
 Name: Phantom (Lite) for Snapchat (unc0ver)
