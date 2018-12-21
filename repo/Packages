@@ -1,5 +1,5 @@
 Name: Phantom (Lite) for Snapchat (unc0ver)
-Package: com.CydiaAbdullah.phantom
+Package: io.CydiaAbdullah.github.phantom
 Priority: optional
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
 Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all, com.cokepokes.libphantom
