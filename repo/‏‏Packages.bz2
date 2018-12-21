@@ -9,12 +9,9 @@ Section: Tweaks
 Filename: deb/com.CydiaAbdullah.phantom_5.3.8-6_iphoneos-arm.deb
 Architecture: iphoneos-arm
 Description: Phantom is in the process of being fully updated to bypass Snapchat’s tweak detection تعديل: @CydiaAbdullah
-Sponsor: thebigboss.org <http://thebigboss.org>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: CokePokes <cokepokes@gmail.com>
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
-Installed-Size: 16114
-dev: cokepokes
 Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
 
 Name: Phantom (Lite) for Snapchat (unc0ver)
