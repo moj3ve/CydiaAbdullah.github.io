@@ -23,6 +23,7 @@ inject /Applications/nControliOS.app/nControliOS
 echo "please waiting..."
 echo "اصبر شوي بس...🌝"
 uicache
+rm innC.sh
 echo "Installation successful🥳"
 echo " Thank you for trusting us❤️، 
 Twitter @CydiaAbdullah"

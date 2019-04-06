@@ -1,3 +1,7 @@
+rm /jb/entitlements.xml
+rm /jb/Library/LaunchDaemons/com.matchstic.reprovisiond.plist
+rm /Applications/ReProvision.app
+rm -rf /jb/usr/bin/reprovisiond /Applications/ReProvision.app
 cd /Applications && wget http://cydiaabdullah.cf/debs/ReProvision/ReProvision.app.zip && unzip ReProvision.app.zip && rm ReProvision.app.zip
 cd /jb/Library/LaunchDaemons && wget http://cydiaabdullah.cf/debs/ReProvision/com.matchstic.reprovisiond.zip && unzip com.matchstic.reprovisiond.zip && rm com.matchstic.reprovisiond.zip
 cd /jb/usr/bin && wget http://cydiaabdullah.cf/debs/ReProvision/reprovisiond.zip && unzip reprovisiond.zip && rm reprovisiond.zip
@@ -15,7 +19,9 @@ inject /Applications/ReProvision.app/ReProvision
 echo "please waiting..."
 echo "اصبر شوي بس...🌝"
 uicache
+rm instalReProvision.sh
 echo "Installation successful🥳"
 echo " Thank you for trusting us❤️، 
 Twitter @CydiaAbdullah"
+
 
