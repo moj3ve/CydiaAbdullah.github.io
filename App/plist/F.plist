@@ -12,7 +12,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://api.tweakbox.pro/ipa/tweakbox/filza.ipa</string>
+                    <string>http://ipa.tweakbox.pro/ipa/tweakbox/filza.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
