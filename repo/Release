@@ -1,8 +1,0 @@
-Origin: TiBounise
-Label: TiBounise
-Suite: stable
-Version: 1.0
-Codename: tibounise-repo
-Architectures: iphoneos-arm
-Components: main
-Description: Le repo contenant les développements de TiBounise
