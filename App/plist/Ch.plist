@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cdn.appvalley.vip/appValley-ipa/934.plist</string>
+					<string>https://cdn.appvalley.vip/appValley-ipa/934.ipa</string>
 				</dict>
 				<dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png?token=AlyO4xDujoguob2DCFfUbNI8jO82OyCgks5bx5ZPwA%3D%3D</string>
+                    <string></string>
 	            </dict>
 	            <dict>
 	                <key>kind</key>
@@ -27,7 +27,7 @@
 	                <key>needs-shine</key>
 	                <false/>
 	                <key>url</key>
-	                <string>https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png?token=AlyO4xDujoguob2DCFfUbNI8jO82OyCgks5bx5ZPwA%3D%3D</string>
+	                <string></string>
 	            </dict>
 			</array>
 			<key>metadata</key>
