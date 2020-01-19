@@ -1,8 +1,1 @@
-$ dig www.cydiaabdullah.com +nostats +nocomments +nocmd
-  > ;www.cydiaabdullah.com.                     IN      A
-  > www.cydiaabdullah.com.              3592    IN      CNAME   cydiaabdullah.github.io.
-  > cydiaabdullah.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-  >  GITHUB-PAGES-SERVER .         22      IN      A       185.199.108.153
-  >  GITHUB-PAGES-SERVER .         22      IN      A       185.199.109.153
-  >  GITHUB-PAGES-SERVER .         22      IN      A       185.199.110.153
-  >  GITHUB-PAGES-SERVER .         22      IN      A       185.199.111.153
+cydiaabdullah.com
